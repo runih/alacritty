@@ -3,6 +3,7 @@ window:
     x: 3
     y: 3
   decorations: buttonless
+  opacity: 0.9
 
 # Font configuration (changes require restart)
 font:
@@ -66,8 +67,6 @@ colors:
     magenta: '#614a73'
     cyan: '#186c60'
     white: '#63686d'
-
-background_opacity: 0.9
 
 #key_bindings:
 #  - { key: Key1,      mods: Alt,          chars: "\xA9"                  }
